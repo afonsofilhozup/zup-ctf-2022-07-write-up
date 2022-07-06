@@ -9,6 +9,6 @@ mais ser acessado, por isso será divulgado as flags encontradas.
 - Web Application
     - [Can you find me?](challenges/can-you-find-me)
     - [Coração](challenges/coracao)
-    - FuZZ to SSuRF
+    - [FuZZ to SSuRF](challenges/fuzz-to-ssurf)
     - Look closely
     - Is this serious
