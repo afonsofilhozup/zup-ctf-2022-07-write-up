@@ -4,7 +4,7 @@
 mais ser acessado, por isso será divulgado as flags encontradas.
 
 - Misc
-    - A1Z26
+    - [A1Z26](challenges/a1z26)
     - Segredo
 - Web Application
     - Can you find me?
