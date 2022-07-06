@@ -8,7 +8,7 @@ mais ser acessado, por isso será divulgado as flags encontradas.
     - [Segredo](challenges/segredo)
 - Web Application
     - [Can you find me?](challenges/can-you-find-me)
-    - Coração
+    - [Coração](challenges/coracao)
     - FuZZ to SSuRF
     - Look closely
     - Is this serious
