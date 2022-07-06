@@ -5,7 +5,7 @@ mais ser acessado, por isso será divulgado as flags encontradas.
 
 - Misc
     - [A1Z26](challenges/a1z26)
-    - Segredo
+    - [Segredo](challenges/segredo)
 - Web Application
     - Can you find me?
     - Coração
