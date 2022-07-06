@@ -7,7 +7,7 @@ mais ser acessado, por isso será divulgado as flags encontradas.
     - [A1Z26](challenges/a1z26)
     - [Segredo](challenges/segredo)
 - Web Application
-    - Can you find me?
+    - [Can you find me?](challenges/can-you-find-me)
     - Coração
     - FuZZ to SSuRF
     - Look closely
