@@ -10,5 +10,5 @@ mais ser acessado, por isso será divulgado as flags encontradas.
     - [Can you find me?](challenges/can-you-find-me)
     - [Coração](challenges/coracao)
     - [FuZZ to SSuRF](challenges/fuzz-to-ssurf)
-    - Look closely
+    - [Look closely](challenges/look-closely)
     - Is this serious
